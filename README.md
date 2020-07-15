@@ -1,5 +1,4 @@
 # MAP-of-MTC-and-DTAP-of-MTC
-Mobile Application Projects
 
 To Readers or Evaluators,
 
@@ -14,10 +13,10 @@ If my thesis is feasible in both Technically and Practically.
 Then I would like to be part of the Development team.
 
 
-Both Applications are exclusively for MTC: Metropolitan Transport Corporations and it's Passengers.
+Both Applications are exclusively for MTC: Metropolitan Transport Corporations (or City Buses) and it's Passengers.
 
-1) DTAP: Digital Ticket Application for Passengers.
-2) MAP: Monitoring Applications for Passengers.
+1) DTAP: Digital Ticket Application for Passengers of MTC.
+2) MAP: Monitoring Applications for Passengers of MTC.
 
 DTAP is suitable to any Metropolitan Transport Corporation. 
 But where as MAP is depends on MTC Management and its Infrastructure.
