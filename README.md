@@ -7,12 +7,6 @@ I can develop both Web and Desktop based Applications and Tools.
 I am a Web Application Developer. I don't know developing Mobile Applications. 
 So This project don't have any code. 
 
-I hope these Innovations are leads towards Digital India.
-This project is related to Government of India and World too.
-If my thesis is feasible in both Technically and Practically. 
-Then I would like to be part of the Development team.
-
-
 Both Applications are exclusively for MTC: Metropolitan Transport Corporations (or City Buses) and it's Passengers.
 
 1) DTAP: Digital Ticket Application for Passengers of MTC.
@@ -26,6 +20,11 @@ please refer attached Documentation in this Project.
 
 As a Software Developer To develop both Applications at least it takes 
 around 4 to 6 Months. For only DTAP it might be done in 2 to 3 Months.
+
+I hope these Innovations are leads towards Digital India.
+This project is related to Government of India and World too.
+If my thesis is feasible in both Technically and Practically. 
+Then I would like to be part of the Development team.
 
 If you have any queries please contact me.
 
