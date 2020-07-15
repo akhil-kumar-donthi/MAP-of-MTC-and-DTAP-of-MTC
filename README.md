@@ -14,7 +14,7 @@ If my thesis is feasible in both Technically and Practically.
 Then I would like to be part of the Development team.
 
 
-Both Applications are exclusively for MTC: Metropolitan Transport Corporations.
+Both Applications are exclusively for MTC: Metropolitan Transport Corporations and it's Passengers.
 
 1) DTAP: Digital Ticket Application for Passengers.
 2) MAP: Monitoring Applications for Passengers.
